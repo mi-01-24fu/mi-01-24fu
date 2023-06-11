@@ -46,7 +46,6 @@ Feel free to explore my GitHub to see the projects that I'm currently working on
 私の目標は、エンジニアとして一流の技術を身に付けることと、技術だけでなく人としてもすぐれた人格を兼ね備えることです。
 
 夢は、IT技術を通じて世界に良い変化をもたらすことです。
-"人生一度"ですからね
 </details>
 <details>
 <summary>这是中文翻译</summary>

@@ -8,7 +8,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # about me
-Hello, I'm Mifu Inouye 👋
+Hello, I'm Mifu Inoue 👋
 
 I'm a 22-year-old System Engineer based in Tokyo, Japan. With a background as an Electrician, I've always been fascinated by IT technology, and that's why I decided to become an engineer.
 
@@ -43,14 +43,14 @@ Feel free to explore my GitHub to see the projects that I'm currently working on
 - TypeScript
 - Java
 
-私の目標は、エンジニアとして一流の技術を身に付けることと、技術だけでなく人としてもすぐれた人格を兼ね備えることです。
+私の目標は、エンジニアとして高い技術力を身に付けることと、技術だけでなく人としても優れた人格を兼ね備えることです。
 
 夢は、IT技術を通じて世界に良い変化をもたらすことです。
 </details>
 <details>
 <summary>这是中文翻译</summary>
 
-# 你好，我是井上美风 👋
+# 你好，我是井上弥风 👋
 
 我是一名22岁的系统工程师，现居日本东京。曾经是一名电工，我一直对IT技术着迷，这也是我决定成为一名工程师的原因。
 
